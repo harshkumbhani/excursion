@@ -19,7 +19,16 @@ body {
 }
 
 .header--h4 {
+	font-size: 21px;
 	color: gray;
+}
+
+/* FOOTER */
+
+.footer--copyright {
+	font-size: 21px;
+	color: gray;
+	text-align: right;
 }
 
 /* LINKS */
